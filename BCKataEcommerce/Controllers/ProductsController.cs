@@ -22,25 +22,19 @@ namespace BCKataEcommerce.Controllers
                 string json = r.ReadToEnd();
                 var products = JsonConvert.DeserializeObject<Item>(json);
                 List<Product> itemList = products.Items;
+                Trace.Write(itemList);
                 return itemList;
             }
         }
 
         public IActionResult LoadJsonByName(string name)
         {
-            using (StreamReader r = new StreamReader("./items.json"))
+            var item = LoadJson().FirstOrDefault(t => t.name == name);
+            if (item == null)
             {
-                string json = r.ReadToEnd();
-                var products = JsonConvert.DeserializeObject<Item>(json);
-                List<Product> itemList = products.Items;
-
-                var item = itemList.FirstOrDefault(t => t.name == name);
-                if (item == null)
-                {
-                    return NotFound();
-                }
-                return new ObjectResult(item);
+                return NotFound();
             }
+            return new ObjectResult(item);
         }
 
         [HttpGet]
