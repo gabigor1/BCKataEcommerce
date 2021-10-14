@@ -26,10 +26,33 @@ namespace BCKataEcommerce.Controllers
             }
         }
 
+        public IActionResult LoadJsonByName(string name)
+        {
+            using (StreamReader r = new StreamReader("./items.json"))
+            {
+                string json = r.ReadToEnd();
+                var products = JsonConvert.DeserializeObject<Item>(json);
+                List<Product> itemList = products.Items;
+
+                var item = itemList.FirstOrDefault(t => t.name == name);
+                if (item == null)
+                {
+                    return NotFound();
+                }
+                return new ObjectResult(item);
+            }
+        }
+
         [HttpGet]
         public IEnumerable<Product> Get()
         {
             return LoadJson();
+        }
+
+        [HttpGet("{name}")]
+        public IActionResult GetByName(string name)
+        {
+            return LoadJsonByName(name);
         }
     }
 
