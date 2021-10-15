@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "L6B2scT4Qyx+Fb+kr3N4dGWkQg9+ZKoq6UlxNegLSUTZ6WtTt0xfVgu3rF9DJV1xLJg8aXOB+VCTU6sYh4sLKQ==",
+  "dgSpecHash": "3MYNRifihDgxFsfNHBmKG+Nm+MvjYZax+YIsYZxBG2VnaCyjQIVxmvfRheN9yfVltwSmckVEQmcSyDaWg60DXQ==",
   "success": true,
   "projectFilePath": "/Users/gabrielgoiri/RiderProjects/BCKataEcommerce/BCKataEcommerce.Test/BCKataEcommerce.Test.csproj",
   "expectedPackageFiles": [
     "/Users/gabrielgoiri/.nuget/packages/coverlet.collector/1.3.0/coverlet.collector.1.3.0.nupkg.sha512",
+    "/Users/gabrielgoiri/.nuget/packages/fluentassertions/6.1.0/fluentassertions.6.1.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/microsoft.codecoverage/16.7.1/microsoft.codecoverage.16.7.1.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/microsoft.net.test.sdk/16.7.1/microsoft.net.test.sdk.16.7.1.nupkg.sha512",
@@ -41,6 +42,7 @@
     "/Users/gabrielgoiri/.nuget/packages/system.buffers/4.3.0/system.buffers.4.3.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/system.collections.concurrent/4.3.0/system.collections.concurrent.4.3.0.nupkg.sha512",
+    "/Users/gabrielgoiri/.nuget/packages/system.configuration.configurationmanager/4.4.0/system.configuration.configurationmanager.4.4.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/system.console/4.3.0/system.console.4.3.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/system.diagnostics.diagnosticsource/4.3.0/system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
@@ -80,6 +82,7 @@
     "/Users/gabrielgoiri/.nuget/packages/system.security.cryptography.encoding/4.3.0/system.security.cryptography.encoding.4.3.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/system.security.cryptography.openssl/4.3.0/system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/system.security.cryptography.primitives/4.3.0/system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "/Users/gabrielgoiri/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/system.security.cryptography.x509certificates/4.3.0/system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
     "/Users/gabrielgoiri/.nuget/packages/system.text.encoding.extensions/4.3.0/system.text.encoding.extensions.4.3.0.nupkg.sha512",

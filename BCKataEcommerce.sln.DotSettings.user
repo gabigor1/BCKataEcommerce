@@ -1,6 +1,67 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b7ce9b3a_002Daef0_002D4fbd_002D95e8_002D2465071001bd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="HttpRequestResponse" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20c11dc9_002Da9fc_002D47f8_002D9e81_002D34966c096e08/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_ProductsByTags #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponseTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=39b1505b_002D6f2d_002D430d_002D94e5_002D93c5a697d756/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_ProductsByTags #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponseTests.Get_ProductsByTags&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=44f64437_002D3181_002D4467_002Da924_002Dcc995327067b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_ProductsByName #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponse&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58b51082_002Db938_002D45d6_002D920c_002Dd04093434e2b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HttpRequestResponse #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponse&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6f4d6702_002Df415_002D4f24_002D8821_002Dfe80214909ea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_ProductsByName" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponse.Get_ProductsByName&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponse.Get_AllProducts&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=86c6982c_002D4d6f_002D4b4e_002Daa1a_002Dfb4e1ae39201/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_ProductsByTags #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponseTests.Get_ProductsByTags&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aa20d376_002D2098_002D4948_002Da4fa_002Dad2d14877829/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HttpRequestResponse #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponse&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b7ce9b3a_002Daef0_002D4fbd_002D95e8_002D2465071001bd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HttpRequestResponse" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponse&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d09940d0_002D2119_002D4154_002D83e4_002D04bb6ad95abc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_ProductsByTags #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponseTests.Get_ProductsByTags&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d4cc469d_002Df4e7_002D4eb5_002Daf9f_002D64de7c622150/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Get_ProductsByTags #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponseTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d857cd28_002De412_002D436c_002Da956_002Dc1f681d732ba/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_AllProducts" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponse&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e7b44cdf_002D8ea2_002D447e_002Dbd18_002Dd939d01a3a04/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HttpRequestResponseTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponseTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ec0cb642_002Db750_002D4e9f_002Dbff6_002D0d7684ab48e0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_ProductsByTags" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponseTests.Get_ProductsByTags&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
