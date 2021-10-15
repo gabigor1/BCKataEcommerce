@@ -46,7 +46,8 @@ namespace BCKataEcommerce.Controllers
             return Ok(LoadJson());
         }
 
-        [HttpGet("{name}")]
+        [Route("{name}")]
+        [HttpGet]
         public IActionResult GetByName(string name)
         {
             return Ok(LoadJsonByName(name));

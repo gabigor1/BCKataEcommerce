@@ -1,5 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20c11dc9_002Da9fc_002D47f8_002D9e81_002D34966c096e08/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Get_ProductsByTags #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20c11dc9_002Da9fc_002D47f8_002D9e81_002D34966c096e08/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_ProductsByTags #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponseTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
@@ -45,9 +45,9 @@
     &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponseTests.Get_ProductsByTags&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d4cc469d_002Df4e7_002D4eb5_002Daf9f_002D64de7c622150/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_ProductsByTags #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d4cc469d_002Df4e7_002D4eb5_002Daf9f_002D64de7c622150/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Get_ProductsByTags #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponseTests.Get_ProductsByTags&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::153539EE-7761-45A3-8D81-2615A85DBC9A::net5.0::BCKataEcommerce.Test.HttpRequestResponseTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d857cd28_002De412_002D436c_002Da956_002Dc1f681d732ba/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_AllProducts" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
